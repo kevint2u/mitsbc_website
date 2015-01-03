@@ -1,0 +1,23 @@
+div.navbar {
+	margin-top: -75px;
+}
+div.page-content {
+  margin-top: 0px;
+}
+div.inner-content {
+	margin-top: 75px;
+}
+
+div.section-header {
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	background-color: #16385C;
+	color:white;
+	line-height: 100px;
+	font-size: 50px;
+}
+
+div.section-body {
+	padding: 10px;
+}
